@@ -1,0 +1,30 @@
+{
+  "_id": "services.im",
+  "_rev": "3-a6dc33f922e4f23256a6484307656463",
+  "default": {
+    "policy": {
+      "no_plan": {
+        "account": {
+          "sms": {
+            "enabled": true
+          },
+          "mms": {
+            "enabled": true
+          }
+        },
+        "reseller": {
+          "sms": {
+            "enabled": true
+          }
+        }
+      }
+    }
+  },
+  "pvt_account_id": "system_config",
+  "pvt_account_db": "system_config",
+  "pvt_created": 63828158207,
+  "pvt_modified": 63828259939,
+  "pvt_type": "config",
+  "pvt_node": "kazoo_apps@kazoo1.z200.hpbx.lxd",
+  "pvt_document_hash": "f84111b9174cf74c785d0075c4e8aa5f"
+}
